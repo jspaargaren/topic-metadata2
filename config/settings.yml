@@ -1,0 +1,3 @@
+plugins:
+  topic_metadata_external_website:
+    default: ""
